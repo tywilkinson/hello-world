@@ -7,4 +7,4 @@ Chris Trent-Davis
 Ty Wilkinson
 Timothy Marshall
 
-The program asks for name, age, and asks what you want to say.
+The program asks for name, age, and prints back out to the user.
