@@ -8,7 +8,7 @@ Ty Wilkinson
 Timothy Marshall
 
 ## What it does
-The program asks for a message, user name, user age, and the user's favorite food. It will then print out the message, then the user's name, and then finally the line *name* is *age* and their favorite food is *food*
+The program asks for a message, user name, user age, and the user's favorite food. It will then print out the message, then the user's name, and then finally the line **name** is **age** and their favorite food is **food**
 
 ## How to use it
 1. Clone the code from github into a local directory. From here you can run the code in any environment that runs python code. The license states thats this code is free to do what you want with it, which we picked to allow for open and free development. This code is very simple so we figured there is no harm in allowing for free range of work. We picked the basic github code of conduct because it suited our needs and provided a standard set of rules for our standard program.
